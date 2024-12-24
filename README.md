@@ -1,6 +1,8 @@
 # Car-Price-Prediction-Project
 Car Price Prediction Project Code, Document And video Tutorial
 
+![Car price](https://github.com/user-attachments/assets/b538195b-7507-47aa-b4c9-18f15f2e0c57)
+
 ## Abstract:
 This project develops a machine learning model to predict car prices based on historical sales data. The model utilizes features such as make, model, year, mileage, engine size, and fuel type to accurately predict prices. With a reliable prediction model, car buyers and sellers can make informed decisions, reducing uncertainty and risk in transactions. The project aims to improve pricing accuracy, optimize pricing strategies, and provide valuable insights into the automotive market.
 
