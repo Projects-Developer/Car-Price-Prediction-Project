@@ -1,4 +1,4 @@
-# Car-Price-Prediction-Project
+# Car Price Prediction Project
 Car Price Prediction Project Code, Document And video Tutorial
 
 ![Car price](https://github.com/user-attachments/assets/b538195b-7507-47aa-b4c9-18f15f2e0c57)
